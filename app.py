@@ -246,7 +246,7 @@ if datos:
         
         st.markdown("---")
 else:
-    st.warning("⚠️ No hay datos disponibles para este libro/capítulo. Asegúrate de que el archivo JSON existe en la carpeta datos/")
+    st.warning(f"⚠️ No hay datos disponibles para {libro_seleccionado} {capitulo_seleccionado}. Asegúrate de que el archivo `datos/{libro_seleccionado.lower()}_{capitulo_seleccionado.split('-')[0].zfill(2)}_{capitulo_seleccionado.split('-')[1].zfill(2)}.json` existe.")
 
 st.markdown("---")
 st.markdown("*Proyecto educativo sin fines de lucro • Texto: WLC • Morfología: ETCBC*")
