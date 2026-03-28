@@ -5,88 +5,13 @@
     "hebreo": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֶ֥ת הָאָֽרֶץ",
     "traduccion": "",
     "palabras": [
-      {
-        "texto": "בְּרֵאשִׁ֖ית",
-        "raiz": "רֹאשׁ",
-        "tipo": "Sustantivo",
-        "significado": "principio, cabeza, primero",
-        "gramatica": {
-          "genero": "Femenino",
-          "numero": "Singular",
-          "estado": "Constructo",
-          "prefijo": "Bet (en, con, por)"
-        }
-      },
-      {
-        "texto": "בָּרָ֣א",
-        "raiz": "בָּרָא",
-        "tipo": "Verbo",
-        "significado": "crear, dar forma",
-        "gramatica": {
-          "voz": "Qal",
-          "aspecto": "Perfecto",
-          "persona": "3ª",
-          "genero": "Masculino",
-          "numero": "Singular",
-          "nota": "Verbo usado solo para actividad divina de crear"
-        }
-      },
-      {
-        "texto": "אֱלֹהִ֑ים",
-        "raiz": "אֱלֹהִים",
-        "tipo": "Sustantivo",
-        "significado": "Dios, dioses, poderosos",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Plural",
-          "estado": "Absoluto",
-          "nota": "Plural de majestad/intensidad con verbo singular"
-        }
-      },
-      {
-        "texto": "אֵ֥ת",
-        "raiz": "אֵת",
-        "tipo": "Partícula",
-        "significado": "marca de objeto directo",
-        "gramatica": {
-          "funcion": "Marca el objeto directo definido",
-          "traduccion": "No se traduce"
-        }
-      },
-      {
-        "texto": "הַשָּׁמַ֖יִם",
-        "raiz": "שָׁמַיִם",
-        "tipo": "Sustantivo",
-        "significado": "cielos, cielo, atmósfera",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Plural",
-          "estado": "Absoluto",
-          "prefijo": "He (artículo definido: el)"
-        }
-      },
-      {
-        "texto": "וְאֶ֥ת",
-        "raiz": "אֵת",
-        "tipo": "Conjunción + Partícula",
-        "significado": "y + marca de objeto",
-        "gramatica": {
-          "prefijo": "Vav (y, pero, entonces)",
-          "funcion": "Conecta objetos directos"
-        }
-      },
-      {
-        "texto": "הָאָֽרֶץ",
-        "raiz": "אֶרֶץ",
-        "tipo": "Sustantivo",
-        "significado": "tierra, tierra firme, país",
-        "gramatica": {
-          "genero": "Femenino",
-          "numero": "Singular",
-          "estado": "Absoluto",
-          "prefijo": "He (artículo definido: la)"
-        }
-      }
+      {"texto": "בְּרֵאשִׁ֖ית", "raiz": "רֹאשׁ", "tipo": "Sustantivo", "significado": "principio, cabeza", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Constructo", "prefijo": "Bet (en, con, por)"}},
+      {"texto": "בָּרָ֣א", "raiz": "בָּרָא", "tipo": "Verbo", "significado": "crear, dar forma", "gramatica": {"voz": "Qal", "aspecto": "Perfecto", "persona": "3ª", "genero": "Masculino", "numero": "Singular", "nota": "Verbo usado solo para actividad divina de crear"}},
+      {"texto": "אֱלֹהִ֑ים", "raiz": "אֱלֹהִים", "tipo": "Sustantivo", "significado": "Dios, dioses, poderosos", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto", "nota": "Plural de majestad/intensidad con verbo singular"}},
+      {"texto": "אֵ֥ת", "raiz": "אֵת", "tipo": "Partícula", "significado": "marca de objeto directo", "gramatica": {"funcion": "Marca el objeto directo definido", "traduccion": "No se traduce"}},
+      {"texto": "הַשָּׁמַ֖יִם", "raiz": "שָׁמַיִם", "tipo": "Sustantivo", "significado": "cielos, cielo, atmósfera", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto", "prefijo": "He (artículo definido: el)"}},
+      {"texto": "וְאֶ֥ת", "raiz": "אֵת", "tipo": "Conjunción + Partícula", "significado": "y + marca de objeto", "gramatica": {"prefijo": "Vav (y, pero, entonces)", "funcion": "Conecta objetos directos"}},
+      {"texto": "הָאָֽרֶץ", "raiz": "אֶרֶץ", "tipo": "Sustantivo", "significado": "tierra, tierra firme, país", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Absoluto", "prefijo": "He (artículo definido: la)"}}
     ]
   },
   {
@@ -95,92 +20,13 @@
     "hebreo": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם",
     "traduccion": "",
     "palabras": [
-      {
-        "texto": "וְהָאָ֗רֶץ",
-        "raiz": "אֶרֶץ",
-        "tipo": "Conjunción + Sustantivo",
-        "significado": "y la tierra",
-        "gramatica": {
-          "genero": "Femenino",
-          "numero": "Singular",
-          "estado": "Absoluto",
-          "prefijo": "Vav + He (y + el/la)"
-        }
-      },
-      {
-        "texto": "הָיְתָ֥ה",
-        "raiz": "הָיָה",
-        "tipo": "Verbo",
-        "significado": "ser, estar, llegar a ser, suceder",
-        "gramatica": {
-          "voz": "Qal",
-          "aspecto": "Perfecto",
-          "persona": "3ª",
-          "genero": "Femenino",
-          "numero": "Singular",
-          "nota": "Indica estado o condición"
-        }
-      },
-      {
-        "texto": "תֹ֙הוּ֙",
-        "raiz": "תֹהוּ",
-        "tipo": "Sustantivo",
-        "significado": "desorden, vacuidad, nada",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Singular",
-          "estado": "Absoluto"
-        }
-      },
-      {
-        "texto": "וָבֹ֔הוּ",
-        "raiz": "בֹהוּ",
-        "tipo": "Conjunción + Sustantivo",
-        "significado": "y vacío",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Singular",
-          "estado": "Absoluto",
-          "prefijo": "Vav (y)",
-          "nota": "Solo aparece 3 veces en la Biblia, siempre con תֹהוּ"
-        }
-      },
-      {
-        "texto": "וְחֹ֖שֶׁךְ",
-        "raiz": "חֹשֶׁךְ",
-        "tipo": "Conjunción + Sustantivo",
-        "significado": "y tinieblas, oscuridad",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Singular",
-          "estado": "Absoluto",
-          "prefijo": "Vav (y)"
-        }
-      },
-      {
-        "texto": "עַל־פְּנֵ֣י",
-        "raiz": "פָּנֶה",
-        "tipo": "Preposición + Sustantivo",
-        "significado": "sobre la faz de, sobre la superficie de",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Plural",
-          "estado": "Constructo",
-          "preposicion": "Al (sobre, encima de)",
-          "nota": "Expresión idiomática para 'superficie'"
-        }
-      },
-      {
-        "texto": "תְה֑וֹם",
-        "raiz": "תְּהוֹם",
-        "tipo": "Sustantivo",
-        "significado": "abismo, profundidad, mar profundo",
-        "gramatica": {
-          "genero": "Femenino",
-          "numero": "Singular",
-          "estado": "Absoluto"
-        }
-      }
+      {"texto": "וְהָאָ֗רֶץ", "raiz": "אֶרֶץ", "tipo": "Conjunción + Sustantivo", "significado": "y la tierra", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Absoluto", "prefijo": "Vav + He (y + el/la)"}},
+      {"texto": "הָיְתָ֥ה", "raiz": "הָיָה", "tipo": "Verbo", "significado": "ser, estar, llegar a ser, suceder", "gramatica": {"voz": "Qal", "aspecto": "Perfecto", "persona": "3ª", "genero": "Femenino", "numero": "Singular", "nota": "Indica estado o condición"}},
+      {"texto": "תֹ֙הוּ֙", "raiz": "תֹהוּ", "tipo": "Sustantivo", "significado": "desorden, vacuidad, nada", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto"}},
+      {"texto": "וָבֹ֔הוּ", "raiz": "בֹהוּ", "tipo": "Conjunción + Sustantivo", "significado": "y vacío", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto", "prefijo": "Vav (y)", "nota": "Solo aparece 3 veces en la Biblia, siempre con תֹהוּ"}},
+      {"texto": "וְחֹ֖שֶׁךְ", "raiz": "חֹשֶׁךְ", "tipo": "Conjunción + Sustantivo", "significado": "y tinieblas, oscuridad", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto", "prefijo": "Vav (y)"}},
+      {"texto": "עַל־פְּנֵ֣י", "raiz": "פָּנֶה", "tipo": "Preposición + Sustantivo", "significado": "sobre la faz de, sobre la superficie de", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Constructo", "preposicion": "Al (sobre, encima de)", "nota": "Expresión idiomática para 'superficie'"}},
+      {"texto": "תְה֑וֹם", "raiz": "תְּהוֹם", "tipo": "Sustantivo", "significado": "abismo, profundidad, mar profundo", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Absoluto"}}
     ]
   },
   {
@@ -189,73 +35,90 @@
     "hebreo": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר",
     "traduccion": "",
     "palabras": [
-      {
-        "texto": "וַיֹּ֥אמֶר",
-        "raiz": "אָמַר",
-        "tipo": "Verbo",
-        "significado": "decir, hablar, pensar",
-        "gramatica": {
-          "voz": "Qal",
-          "aspecto": "Imperfecto con Vav consecutiva",
-          "persona": "3ª",
-          "genero": "Masculino",
-          "numero": "Singular",
-          "nota": "Vav consecutiva convierte imperfecto en tiempo narrativo pasado"
-        }
-      },
-      {
-        "texto": "אֱלֹהִ֖ים",
-        "raiz": "אֱלֹהִים",
-        "tipo": "Sustantivo",
-        "significado": "Dios",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Plural",
-          "estado": "Absoluto",
-          "funcion": "Sujeto de la oración"
-        }
-      },
-      {
-        "texto": "יְהִ֣י",
-        "raiz": "הָיָה",
-        "tipo": "Verbo",
-        "significado": "sea, haya, llegue a ser",
-        "gramatica": {
-          "voz": "Qal",
-          "aspecto": "Imperfecto",
-          "persona": "3ª",
-          "genero": "Masculino",
-          "numero": "Singular",
-          "modo": "Jusivo (mandato indirecto)",
-          "nota": "Fórmula de creación divina"
-        }
-      },
-      {
-        "texto": "א֑וֹר",
-        "raiz": "אוֹר",
-        "tipo": "Sustantivo",
-        "significado": "luz, iluminación",
-        "gramatica": {
-          "genero": "Masculino",
-          "numero": "Singular",
-          "estado": "Absoluto",
-          "funcion": "Sujeto de la cláusula"
-        }
-      },
-      {
-        "texto": "וַֽיְהִי־אֽוֹר",
-        "raiz": "הָיָה",
-        "tipo": "Verbo + Sustantivo",
-        "significado": "y hubo luz",
-        "gramatica": {
-          "voz": "Qal",
-          "aspecto": "Imperfecto con Vav consecutiva",
-          "persona": "3ª",
-          "genero": "Masculino",
-          "numero": "Singular",
-          "nota": "Respuesta inmediata al mandato divino"
-        }
-      }
+      {"texto": "וַיֹּ֥אמֶר", "raiz": "אָמַר", "tipo": "Verbo", "significado": "decir, hablar, pensar", "gramatica": {"voz": "Qal", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "genero": "Masculino", "numero": "Singular", "nota": "Vav consecutiva convierte imperfecto en tiempo narrativo pasado"}},
+      {"texto": "אֱלֹהִ֖ים", "raiz": "אֱלֹהִים", "tipo": "Sustantivo", "significado": "Dios", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto", "funcion": "Sujeto de la oración"}},
+      {"texto": "יְהִ֣י", "raiz": "הָיָה", "tipo": "Verbo", "significado": "sea, haya, llegue a ser", "gramatica": {"voz": "Qal", "aspecto": "Imperfecto", "persona": "3ª", "genero": "Masculino", "numero": "Singular", "modo": "Jusivo (mandato indirecto)", "nota": "Fórmula de creación divina"}},
+      {"texto": "א֑וֹר", "raiz": "אוֹר", "tipo": "Sustantivo", "significado": "luz, iluminación", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto", "funcion": "Sujeto de la cláusula"}},
+      {"texto": "וַֽיְהִי־אֽוֹר", "raiz": "הָיָה", "tipo": "Verbo + Sustantivo", "significado": "y hubo luz", "gramatica": {"voz": "Qal", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "genero": "Masculino", "numero": "Singular", "nota": "Respuesta inmediata al mandato divino"}}
+    ]
+  },
+  {
+    "id": 4,
+    "referencia": "Génesis 2:1",
+    "hebreo": "וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־צְבָאָֽם",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "וַיְכֻלּ֛וּ", "raiz": "כָּלָה", "tipo": "Verbo", "significado": "terminar, completar, acabar", "gramatica": {"voz": "Pual", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "numero": "Plural"}},
+      {"texto": "הַשָּׁמַ֥יִם", "raiz": "שָׁמַיִם", "tipo": "Sustantivo", "significado": "cielos", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto"}},
+      {"texto": "וְהָאָ֖רֶץ", "raiz": "אֶרֶץ", "tipo": "Conjunción + Sustantivo", "significado": "y la tierra", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Absoluto"}},
+      {"texto": "וְכָל־צְבָאָֽם", "raiz": "צָבָא", "tipo": "Sustantivo", "significado": "ejército, huestes", "gramatica": {"genero": "Masculino", "numero": "Plural", "prefijo": "Vav + Kol (y todo)"}}
+    ]
+  },
+  {
+    "id": 5,
+    "referencia": "Génesis 2:2",
+    "hebreo": "וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "וַיְכַ֤ל", "raiz": "כָּלָה", "tipo": "Verbo", "significado": "terminar, completar", "gramatica": {"voz": "Piel", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}},
+      {"texto": "אֱלֹהִים֙", "raiz": "אֱלֹהִים", "tipo": "Sustantivo", "significado": "Dios", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto"}},
+      {"texto": "בַּיּ֣וֹם", "raiz": "יוֹם", "tipo": "Sustantivo", "significado": "día", "gramatica": {"genero": "Masculino", "numero": "Singular", "prefijo": "Bet (en)"}},
+      {"texto": "הַשְּׁבִיעִ֔י", "raiz": "שֶׁבַע", "tipo": "Adjetivo", "significado": "séptimo", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto"}},
+      {"texto": "מְלַאכְתּ֖וֹ", "raiz": "מְלָאכָה", "tipo": "Sustantivo", "significado": "obra, trabajo", "gramatica": {"genero": "Femenino", "numero": "Singular", "sufijo": "3ª persona masculino singular (su)"}},
+      {"texto": "אֲשֶׁ֣ר", "raiz": "אֲשֶׁר", "tipo": "Pronombre", "significado": "que, cual", "gramatica": {"funcion": "Pronombre relativo"}},
+      {"texto": "עָשָׂ֑ה", "raiz": "עָשָׂה", "tipo": "Verbo", "significado": "hacer", "gramatica": {"voz": "Qal", "aspecto": "Perfecto", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}}
+    ]
+  },
+  {
+    "id": 6,
+    "referencia": "Génesis 2:3",
+    "hebreo": "וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "וַיְבָ֤רֶךְ", "raiz": "בָּרַךְ", "tipo": "Verbo", "significado": "bendecir", "gramatica": {"voz": "Piel", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}},
+      {"texto": "אֱלֹהִים֙", "raiz": "אֱלֹהִים", "tipo": "Sustantivo", "significado": "Dios", "gramatica": {"genero": "Masculino", "numero": "Plural", "estado": "Absoluto"}},
+      {"texto": "אֶת־י֣וֹם", "raiz": "יוֹם", "tipo": "Sustantivo", "significado": "día", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Construto"}},
+      {"texto": "הַשְּׁבִיעִ֔י", "raiz": "שֶׁבַע", "tipo": "Adjetivo", "significado": "séptimo", "gramatica": {"genero": "Masculino", "numero": "Singular"}},
+      {"texto": "וַיְקַדֵּ֖שׁ", "raiz": "קָדַשׁ", "tipo": "Verbo", "significado": "santificar, apartar como santo", "gramatica": {"voz": "Piel", "aspecto": "Imperfecto con Vav consecutiva", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}},
+      {"texto": "אֹת֑וֹ", "raiz": "אוֹת", "tipo": "Partícula", "significado": "lo, le (objeto directo)", "gramatica": {"sufijo": "3ª persona masculino singular"}}
+    ]
+  },
+  {
+    "id": 7,
+    "referencia": "Génesis 3:1",
+    "hebreo": "וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "וְהַנָּחָשׁ֙", "raiz": "נָחָשׁ", "tipo": "Sustantivo", "significado": "serpiente", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto", "prefijo": "Vav + He"}},
+      {"texto": "הָיָ֣ה", "raiz": "הָיָה", "tipo": "Verbo", "significado": "ser, estar", "gramatica": {"voz": "Qal", "aspecto": "Perfecto", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}},
+      {"texto": "עָר֔וּם", "raiz": "עָרוּם", "tipo": "Adjetivo", "significado": "astuto, prudente, desnudo", "gramatica": {"genero": "Masculino", "numero": "Singular"}},
+      {"texto": "מִכֹּל֙", "raiz": "כֹּל", "tipo": "Sustantivo", "significado": "todo", "gramatica": {"prefijo": "Mem (de, que)"}},
+      {"texto": "חַיַּ֣ת", "raiz": "חַי", "tipo": "Sustantivo", "significado": "animal, ser viviente", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Constructo"}},
+      {"texto": "הַשָּׂדֶ֔ה", "raiz": "שָׂדֶה", "tipo": "Sustantivo", "significado": "campo", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto"}}
+    ]
+  },
+  {
+    "id": 8,
+    "referencia": "Génesis 4:1",
+    "hebreo": "וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתּ֑וֹ",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "וְהָ֣אָדָ֔ם", "raiz": "אָדָם", "tipo": "Sustantivo", "significado": "hombre, Adán", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto", "prefijo": "Vav + He"}},
+      {"texto": "יָדַ֖ע", "raiz": "יָדַע", "tipo": "Verbo", "significado": "conocer", "gramatica": {"voz": "Qal", "aspecto": "Perfecto", "persona": "3ª", "genero": "Masculino", "numero": "Singular"}},
+      {"texto": "אֶת־חַוָּ֣ה", "raiz": "חַוָּה", "tipo": "Sustantivo", "significado": "Eva", "gramatica": {"genero": "Femenino", "numero": "Singular", "estado": "Absoluto"}},
+      {"texto": "אִשְׁתּ֑וֹ", "raiz": "אִשָּׁה", "tipo": "Sustantivo", "significado": "mujer, esposa", "gramatica": {"genero": "Femenino", "numero": "Singular", "sufijo": "3ª persona masculino singular (su)"}}
+    ]
+  },
+  {
+    "id": 9,
+    "referencia": "Génesis 5:1",
+    "hebreo": "זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם",
+    "traduccion": "",
+    "palabras": [
+      {"texto": "זֶ֣ה", "raiz": "זֶה", "tipo": "Pronombre", "significado": "este, esto", "gramatica": {"genero": "Masculino", "numero": "Singular"}},
+      {"texto": "סֵ֔פֶר", "raiz": "סֵפֶר", "tipo": "Sustantivo", "significado": "libro, escrito", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto"}},
+      {"texto": "תּוֹלְדֹ֖ת", "raiz": "תּוֹלְדָה", "tipo": "Sustantivo", "significado": "generaciones, descendencia, historia", "gramatica": {"genero": "Femenino", "numero": "Plural", "estado": "Constructo"}},
+      {"texto": "אָדָ֑ם", "raiz": "אָדָם", "tipo": "Sustantivo", "significado": "Adán, hombre", "gramatica": {"genero": "Masculino", "numero": "Singular", "estado": "Absoluto"}}
     ]
   }
 ]
