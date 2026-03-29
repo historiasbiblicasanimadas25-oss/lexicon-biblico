@@ -29,3 +29,6 @@ Herramienta gratuita para traductores bíblicos con análisis morfológico detal
 
 ---
 *Proyecto educativo sin fines de lucro*
+=======
+# lexicon-biblico
+>>>>>>> ff958efcdc7b0366e9e6af0fb563dedb181d630d
